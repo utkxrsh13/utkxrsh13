@@ -16,11 +16,11 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkxrsh13&show_icons=true&hide_title=true&count_private=true&theme=merko&layout=compact&hide=stars" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkxrsh13&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&layout=compact&hide=stars" alt="Your GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkxrsh13&layout=compact&theme=merko" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkxrsh13&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </p>
 
 
