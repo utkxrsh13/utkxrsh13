@@ -8,6 +8,7 @@
 <li>🌟<strong>Web Development Enthusiast:</strong> I have a particular passion for creating innovative and interactive web applications. Building seamless user experiences and robust       backends is what drives my motivation as a developer. </li>
 <li>🌱 <strong>Currently Learning:</strong> I’m diving deeper into modern web development technologies, including React and Node.js, to sharpen my skills in crafting full-stack applications. </li>
 
+----
 
 <h3 align="center"> 🛠️ Tech Stack  </h3>
 
@@ -15,6 +16,9 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman,reactnative" />
 </p>
 
+---
+
+<h3 align="center"> 💡 Projects</h3>
 <p align="center">
   <a href="https://github.com/utkxrsh13/TRUbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=TRUbot&theme=radical" />
