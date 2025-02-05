@@ -15,10 +15,13 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman,reactnative" />
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=techNova-Static&theme=tokyonight)](https://github.com/utkxrsh13/techNova-Static)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=Text_to_Image&theme=tokyonight)](https://github.com/utkxrsh13/Text_to_Image)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=TRUbot&theme=tokyonight)](https://github.com/utkxrsh13/TRUbot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=CareerVista-Backend&theme=tokyonight)](https://github.com/utkxrsh13/CareerVista-Backend)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=TRUbot&theme=radical)](https://github.com/utkxrsh13/TRUbot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=CareerVista-Backend&theme=radical)](https://github.com/utkxrsh13/CareerVista-Backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=Text_to_Image&theme=radical)](https://github.com/utkxrsh13/Text_to_Image)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=techNova-Static&theme=radical)](https://github.com/utkxrsh13/techNova-Static)
+
+
 
 
 
