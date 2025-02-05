@@ -3,10 +3,10 @@
 </h2>
 
 <h3 align="center"> 🚀 About Me</h3>
-<p>👀 I am deeply passionate about exploring and expanding my knowledge across diverse software technologies, constantly aiming to grow and stay updated with industry trends.</p>
-<p>🎓 I am currently pursuing an undergraduate degree in <strong>Computer Science</strong>, equipping myself with a strong foundation in algorithms, programming, and software development.    </p>
-<p>🌟<strong>Web Development Enthusiast:</strong> I have a particular passion for creating innovative and interactive web applications. Building seamless user experiences and robust       backends is what drives my motivation as a developer. </p>
-<p>🌱 <strong>Currently Learning:</strong> I’m diving deeper into modern web development technologies, including React and Node.js, to sharpen my skills in crafting full-stack applications. </p>
+<li>👀 I am deeply passionate about exploring and expanding my knowledge across diverse software technologies, constantly aiming to grow and stay updated with industry trends.</li>
+<li>🎓 I am currently pursuing an undergraduate degree in <strong>Computer Science</strong>, equipping myself with a strong foundation in algorithms, programming, and software development.    </li>
+<li>🌟<strong>Web Development Enthusiast:</strong> I have a particular passion for creating innovative and interactive web applications. Building seamless user experiences and robust       backends is what drives my motivation as a developer. </li>
+<li>🌱 <strong>Currently Learning:</strong> I’m diving deeper into modern web development technologies, including React and Node.js, to sharpen my skills in crafting full-stack applications. </li>
 
 
 <h3 align="center"> 🛠️ Tech Stack  </h3>
@@ -17,6 +17,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=techNova-Static&theme=tokyonight)](https://github.com/utkxrsh13/techNova-Static)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=Text_to_Image&theme=tokyonight)](https://github.com/utkxrsh13/Text_to_Image)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=TRUbot&theme=tokyonight)](https://github.com/utkxrsh13/TRUbot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=CareerVista-Backend&theme=tokyonight)](https://github.com/utkxrsh13/CareerVista-Backend)
+
 
 
 <h2 align="center">📈 GitHub Stats</h2>
@@ -29,6 +32,13 @@
 </p>
 
 
+<h2 align="center">✨ Fun Fact</h2>
+<li align="center">
+  🌍 Did you know? The first computer "bug" was an actual moth found in a relay of the Harvard Mark II computer in 1947! 🦋
+</li>
+<li align="center">
+  🫥 3 SQL statements walk into a NoSQL bar; Soon, they walk out....They couldn't find a table😂
+</li>
 
 <h2 align="center"> 🚀 Let's Build Something Amazing Together!</h2>
 <p align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
