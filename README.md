@@ -1,7 +1,7 @@
 <h2 align="center">
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200px"/>
   
-   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things...&font=Fira%20Code&center=true&width=500&height=105&color=FF5733&vCenter=true&pause=400&size=26&speed=60" />
+   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things...&font=Fira%20Code&center=true&width=500&height=105&color=FF5733&vCenter=true&pause=500&size=26&speed=60" />
 </h2>
 
 
