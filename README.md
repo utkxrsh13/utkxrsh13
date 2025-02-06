@@ -18,7 +18,7 @@
 
 
 
-<h3 align="center"> 🛠️ Tech Stack  </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Tech+Stack+🛠️...&font=Fira%20Code&center=true&width=500&height=25&color=9b5de5&vCenter=true&pause=200&size=24&speed=80" /></h3>
 
  <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman" />
@@ -68,7 +68,8 @@
 
 ---
 
-<h2 align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80px"/> 🚀 Let's Build Something Amazing Together!</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80px"/> <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Let's+Build+Something+Amazing+Together!...&font=Fira%20Code&center=true&width=550&height=25&color=ffea00&vCenter=true&pause=600&size=24&speed=110" />
+</h2>
 <!-- <p align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p> -->
 
 <h3 align="center">🌐 Connect with Me </h3>
