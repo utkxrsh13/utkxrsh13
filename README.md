@@ -5,13 +5,6 @@
 </h2>
 
 
-
-
-<p align="center">
-<!--   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="3D Contribution Snake"/> -->
-<!-- </p> -->
-
-
 <h3 align="center"> 🚀 About Me</h3>
 <li>👀 I am deeply passionate about exploring and expanding my knowledge across diverse software technologies, constantly aiming to grow and stay updated with industry trends.</li>
 <li>🎓 I am currently pursuing an undergraduate degree in <strong>Computer Science</strong>, equipping myself with a strong foundation in algorithms, programming, and software development.    </li>
@@ -52,10 +45,10 @@
 
 
 <h2 align="center">📈 GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utkxrsh13&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&layout=compact&hide=stars" alt="Your GitHub Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkxrsh13&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </p>
