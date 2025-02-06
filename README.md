@@ -1,6 +1,16 @@
 <h2 align="center">
-  👋 Hello, World! I'm Utkarsh
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200px"/>
+  
+   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things...&font=Fira%20Code&center=true&width=500&height=105&color=FF5733&vCenter=true&pause=300&size=26&speed=60" />
 </h2>
+
+
+
+
+<p align="center">
+<!--   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="3D Contribution Snake"/> -->
+<!-- </p> -->
+
 
 <h3 align="center"> 🚀 About Me</h3>
 <li>👀 I am deeply passionate about exploring and expanding my knowledge across diverse software technologies, constantly aiming to grow and stay updated with industry trends.</li>
@@ -9,6 +19,11 @@
 <li>🌱 <strong>Currently Learning:</strong> I’m diving deeper into modern web development technologies, including React and Node.js, to sharpen my skills in crafting full-stack applications. </li>
 
 ----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
+</p>
+
+
 
 <h3 align="center"> 🛠️ Tech Stack  </h3>
 
@@ -46,6 +61,9 @@
 </p>
 
 
+
+<!-- <hr style="border: 1px solid #ccc;"> -->
+
 <h2 align="center">✨ Fun Fact</h2>
 <li align="center">
   🌍 Did you know? The first computer "bug" was an actual moth found in a relay of the Harvard Mark II computer in 1947! 🦋
@@ -54,8 +72,11 @@
   🫥 3 SQL statements walk into a NoSQL bar; Soon, they walk out....They couldn't find a table😂
 </li>
 
-<h2 align="center"> 🚀 Let's Build Something Amazing Together!</h2>
-<p align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
+
+---
+
+<h2 align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80px"/> 🚀 Let's Build Something Amazing Together!</h2>
+<!-- <p align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p> -->
 
 <h3 align="center">🌐 Connect with Me </h3>
 
@@ -67,7 +88,9 @@
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>  
 </p>
-<hr style="border: 1px solid #ccc;">
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</p>
 
 <!--
 **utkxrsh13/utkxrsh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
