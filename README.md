@@ -1,7 +1,8 @@
 <h2 align="center">
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200px"/>
+
   
-   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things...&font=Fira%20Code&center=true&width=500&height=105&color=FF5733&vCenter=true&pause=500&size=26&speed=60" />
+   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things...&font=Fira%20Code&center=true&width=500&height=105&color=FF5733&vCenter=true&size=26" />
 </h2>
 
 
@@ -21,7 +22,7 @@
 <h3 align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Tech+Stack+🛠️...&font=Fira%20Code&center=true&width=500&height=25&color=9b5de5&vCenter=true&pause=200&size=24&speed=80" /></h3>
 
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman,latex" />
 </p>
 
 ---
@@ -73,18 +74,31 @@
 <!-- <p align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p> -->
 
 <h3 align="center">🌐 Connect with Me </h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/utkxrsh13" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<table align="center" >
+  <tr align="center">
+            <td align="center" width="96">
+      <a href="https://leetcode.com/u/utkxrsh13/" >
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="48" width="48" />
+      </a>
+      <br> Leetcode
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/utkxrsh13">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/150px-LinkedIn_logo_initials.png" alt="utkxrsh13" height="48" width="48" />
+      </a>
+      <br> Linkedin
+    </td>
+    <td align="center" width="96">
+  <a href="mailto:utkarsht0813@@gmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" height="48" width="48" />
   </a>
-  <a href="mailto:utkarsht0813@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>  
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
-</p>
+  <br> Gmail
+</td>
+  </tr>
+</table>
+</br>
+
+<p align="center"><img align="center" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=utkxrsh13&theme=github-dark" alt="GitHub Streak" /></p>
 
 <!--
 **utkxrsh13/utkxrsh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
