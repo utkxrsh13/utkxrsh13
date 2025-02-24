@@ -1,5 +1,6 @@
 <h2 align="center">
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200px"/>
+<img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
 
   
    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things...&font=Fira%20Code&center=true&width=500&height=105&color=FF5733&vCenter=true&size=26" />
