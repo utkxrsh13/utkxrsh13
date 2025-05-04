@@ -1,8 +1,8 @@
 <h2 align="center">
 <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" />
 <!-- <img align="right" src="https://komarev.com/ghpvc/?username=utkxrsh13&style=flat-square" alt="Profile Views" /> -->
-  
-   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things...&font=Fira%20Code&center=true&width=500&height=105&color=FF5733&vCenter=true&size=26" />
+   
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things...&font=Fira%20Code&center=true&width=500&height=105&color=FF5733&vCenter=true&size=26" />
 </h2>
 
 
@@ -11,6 +11,8 @@
 <li>🎓 I am currently pursuing an undergraduate degree in <strong>Computer Science</strong>, equipping myself with a strong foundation in algorithms, programming, and software development.    </li>
 <li>🌟<strong>Web Development Enthusiast:</strong> I have a particular passion for creating innovative and interactive web applications. Building seamless user experiences and robust       backends is what drives my motivation as a developer. </li>
 <li>🌱 <strong>Currently Learning:</strong> I’m diving deeper into modern web development technologies, including React and Node.js, to sharpen my skills in crafting full-stack applications. </li>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkxrsh13&theme=onedark" alt="utkxrsh13" /></a> </p>
+
 
 ----
 <p align="center">
