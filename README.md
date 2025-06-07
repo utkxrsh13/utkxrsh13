@@ -2,8 +2,9 @@
 <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" />
 <!-- <img align="right" src="https://komarev.com/ghpvc/?username=utkxrsh13&style=flat-square" alt="Profile Views" /> -->
    
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things...&font=Fira%20Code&center=true&width=500&height=105&color=FF5733&vCenter=true&size=26" />
-</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=500&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things..." alt="Typing SVG" />
+
+
 
 
 <h3 align="center"> 🚀 About Me</h3>
@@ -21,7 +22,10 @@
 
 
 
-<h3 align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Tech+Stack+🛠️...&font=Fira%20Code&center=true&width=500&height=25&color=9b5de5&vCenter=true&pause=200&size=24&speed=80" /></h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&color=9b5de5&center=true&vCenter=true&width=500&height=25&lines=Tech+Stack+%F0%9F%9B%A0%EF%B8%8F..." alt="Typing SVG" />
+</h3>
+
 
  <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman,latex" />
@@ -68,39 +72,37 @@
   🫥 3 SQL statements walk into a NoSQL bar; Soon, they walk out....They couldn't find a table😂
 </li>
 
-
----
-
-<h2 align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80px"/> <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Let's+Build+Something+Amazing+Together!...&font=Fira%20Code&center=true&width=550&height=25&color=ffea00&vCenter=true&pause=600&size=24&speed=110" />
+<h2 align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80px" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&color=ffea00&center=true&vCenter=true&width=550&height=25&lines=%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!..." alt="Typing SVG" />
 </h2>
-<!-- <p align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p> -->
 
-<h3 align="center">🌐 Connect with Me </h3>
-<table align="center" >
-  <tr align="center">
-            <td align="center" width="96">
-      <a href="https://leetcode.com/u/utkxrsh13/" >
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="48" width="48" />
-      </a>
-      <br> Leetcode
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/utkxrsh13">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/150px-LinkedIn_logo_initials.png" alt="utkxrsh13" height="48" width="48" />
-      </a>
-      <br> Linkedin
-    </td>
-    <td align="center" width="96">
-  <a href="mailto:utkarsht0813@@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" height="48" width="48" />
+<!-- "Code is like humor. When you have to explain it, it’s bad." – Cory House</p> -->
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkxrsh13">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&style=plastic&color=black" />
   </a>
-  <br> Gmail
-</td>
-  </tr>
-</table>
-</br>
+  <a href="mailto:utkarsht0813@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail-black?logo=gmail&style=plastic" />
+  </a>
+  <a href="https://leetcode.com/utkxrsh13">
+    <img src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode&style=plastic&color=black" />
+  </a>
+  <a href="https://utportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-black?logo=firefox&style=plastic&color=black" />
+  </a>
+</p>
 
-<p align="center"><img align="center" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=utkxrsh13&theme=github-dark" alt="GitHub Streak" /></p>
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 <!--
 **utkxrsh13/utkxrsh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
