@@ -10,7 +10,6 @@
 <h3 align="center"> 🚀 About Me</h3>
 <li>👀 I am deeply passionate about exploring and expanding my knowledge across diverse software technologies, constantly aiming to grow and stay updated with industry trends.</li>
 <li>🎓 I am currently pursuing an undergraduate degree in <strong>Computer Science</strong>, equipping myself with a strong foundation in algorithms, programming, and software development.    </li>
-<li>🌟<strong>Web Development Enthusiast:</strong> I have a particular passion for creating innovative and interactive web applications. Building seamless user experiences and robust       backends is what drives my motivation as a developer. </li>
 <li>🌱 <strong>Currently Learning:</strong> I’m diving deeper into modern web development technologies, including React and Node.js, to sharpen my skills in crafting full-stack applications. </li>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkxrsh13&theme=onedark" alt="utkxrsh13" /></a> </p>
 
@@ -19,7 +18,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
 </p>
-
 
 
 <h3 align="center">
