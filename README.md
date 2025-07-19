@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=utkxrsh13&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
 <h2 align="center">
 <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" />
    
@@ -5,7 +9,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=500&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things..." alt="Typing SVG" />
 
 
- ![Profile Views](https://komarev.com/ghpvc/?username=utkxrsh13&color=blueviolet&style=flat)
+
+<!--  ![Profile Views](https://komarev.com/ghpvc/?username=utkxrsh13&color=blueviolet&style=flat) -->
+<!-- </p> -->
 
 
 <h3 align="center"> 🚀 About Me</h3> 
