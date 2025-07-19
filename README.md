@@ -1,13 +1,14 @@
 <h2 align="center">
 <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" />
-<!-- <img align="right" src="https://komarev.com/ghpvc/?username=utkxrsh13&style=flat-square" alt="Profile Views" /> -->
+   
    
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=500&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things..." alt="Typing SVG" />
 
 
+ ![Profile Views](https://komarev.com/ghpvc/?username=utkxrsh13&color=blueviolet&style=flat)
 
 
-<h3 align="center"> 🚀 About Me</h3>
+<h3 align="center"> 🚀 About Me</h3> 
 <li>👀 I am deeply passionate about exploring and expanding my knowledge across diverse software technologies, constantly aiming to grow and stay updated with industry trends.</li>
 <li>🎓 I am currently pursuing an undergraduate degree in <strong>Computer Science</strong>, equipping myself with a strong foundation in algorithms, programming, and software development.    </li>
 <li>🌱 <strong>Currently Learning:</strong> I’m diving deeper into modern web development technologies, including React and Node.js, to sharpen my skills in crafting full-stack applications. </li>
@@ -26,7 +27,7 @@
 
 
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman,webflow" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman,webflow,git,fastapi" />
 </p>
 
 ---
