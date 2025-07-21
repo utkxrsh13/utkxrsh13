@@ -16,10 +16,24 @@
 <!-- </p> -->
 
 
-<h3 align="center"> 🚀 About Me</h3> 
-<li>👀 I am deeply passionate about exploring and expanding my knowledge across diverse software technologies, constantly aiming to grow and stay updated with industry trends.</li>
-<li>🎓 I am currently pursuing an undergraduate degree in <strong>Computer Science</strong>, equipping myself with a strong foundation in algorithms, programming, and software development.    </li>
-<li>🌱 <strong>Currently Learning:</strong> I’m diving deeper into modern web development technologies, including React and Node.js, to sharpen my skills in crafting full-stack applications. </li>
+<h3 align="center">🚀 About Me</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Passionate%20Learner-violet?style=flat-square&logo=react" width="180" height="30" />
+  <img src="https://img.shields.io/badge/-Computer%20Science%20Undergrad-brightgreen?style=flat-square&logo=graduation-cap" width="230" height="30" />
+  <img src="https://img.shields.io/badge/-Learning%20React%20%26%20Node.js-orange?style=flat-square&logo=javascript" width="230" height="30" />
+</p>
+
+<ul style="list-style: none; padding: 0; text-align: center;">
+  <li style="margin-bottom: 10px;">
+    👀 I am deeply passionate about exploring and expanding my knowledge across diverse software technologies, constantly aiming to grow and stay updated with industry trends.
+  </li>
+  <li style="margin-bottom: 10px;">
+    🎓 I am currently pursuing an undergraduate degree in <strong>Computer Science</strong>, equipping myself with a strong foundation in algorithms, programming, and software development.
+  </li>
+  <li style="margin-bottom: 10px;">
+    🌱 <strong>Currently Learning:</strong> I’m diving deeper into
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkxrsh13&theme=onedark" alt="utkxrsh13" /></a> </p>
 
 
