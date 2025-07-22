@@ -75,10 +75,11 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkxrsh13&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&layout=compact&hide=stars" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkxrsh13&show_icons=true&hide_title=true&count_private=true&theme=dracula&layout=compact&hide_border=true" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkxrsh13&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkxrsh13&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+  
 </p>
 
 
@@ -98,21 +99,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&color=ffea00&center=true&vCenter=true&width=550&height=25&lines=%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!..." alt="Typing SVG" />
 </h2>
 
-<!-- "Code is like humor. When you have to explain it, it’s bad." – Cory House</p> -->
-<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/utkxrsh13">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&style=plastic&color=black" />
+    <img src="https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&style=plastic&color=black" width="70" height="auto" />
   </a>
   <a href="mailto:utkarsht0813@gmail.com">
-    <img src="https://img.shields.io/badge/-Mail-black?logo=gmail&style=plastic" />
+    <img src="https://img.shields.io/badge/-Mail-black?logo=gmail&style=plastic&color=black" width="60" height="auto" />
   </a>
   <a href="https://leetcode.com/utkxrsh13">
-    <img src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode&style=plastic&color=black" />
+    <img src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode&style=plastic&color=black" width="100" height="auto" />
   </a>
   <a href="https://utportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-black?logo=firefox&style=plastic&color=black" />
+    <img src="https://img.shields.io/badge/-Portfolio-white?logo=firefox&style=plastic&color=black" width="90" height="auto" />
   </a>
 </p>
 
