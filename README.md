@@ -38,9 +38,7 @@
 
 
 ----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
-</p>
+
 
 
 <h3 align="center">
