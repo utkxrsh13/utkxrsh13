@@ -34,7 +34,7 @@
   <li style="margin-bottom: 10px;">
     🌱 <strong>Currently Learning:</strong> I’m diving deeper into
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkxrsh13&theme=onedark" alt="utkxrsh13" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkxrsh13&theme=discord" alt="utkxrsh13" /></a> </p>
 
 
 ----
@@ -49,7 +49,7 @@
 
 
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman,webflow,git,fastapi" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman,webflow,git,github,fastapi,scss,latex&perline=10" />
 </p>
 
 ---
