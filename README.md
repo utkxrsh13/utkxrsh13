@@ -120,28 +120,10 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
-## 🔥 Contribution Graph
-
-[![Utkarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkxrsh13&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-
-<!--
-**utkxrsh13/utkxrsh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
