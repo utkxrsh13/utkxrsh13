@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-<img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" />
+<img alt="AI Dev Flow" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150px" />
    
    
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=500&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things..." alt="Typing SVG" />
@@ -24,19 +24,19 @@
   <img src="https://img.shields.io/badge/-Learning%20React%20%26%20Node.js-orange?style=flat-square&logo=javascript" width="230" height="30" />
 </p>
 
-<ul style="list-style: none; padding: 0; text-align: center;">
-  <li style="margin-bottom: 10px;">
-    👀 I am deeply passionate about exploring and expanding my knowledge across diverse software technologies, constantly aiming to grow and stay updated with industry trends.
-  </li>
-  <li style="margin-bottom: 10px;">
-    🎓 I am currently pursuing an undergraduate degree in <strong>Computer Science</strong>, equipping myself with a strong foundation in algorithms, programming, and software development.
-  </li>
-  <li style="margin-bottom: 10px;">
-    🌱 <strong>Currently Learning:</strong> I’m diving deeper into
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkxrsh13&theme=discord" alt="utkxrsh13" /></a> </p>
-
-
+<!-- YAML-Style Introduction -->
+```yaml
+name: Utkarsh Tiwari
+role: Frontend Developer | Software Enthusiast 👨‍💻
+education:
+  degree: B.Tech in Computer Science 🎓
+  focus: DSA, Software Engineering, System Design
+currently_learning:
+  - TypeScript ⚡
+  - Node.js + FastAPI
+  - LangChain + AI Integration 🤖
+quote: "Stay curious, stay shipping 🚀"
+```
 ----
 
 
@@ -93,9 +93,11 @@
 </li>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80px" />
+ <img alt="AI Vibe" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150px" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&color=ffea00&center=true&vCenter=true&width=550&height=25&lines=%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!..." alt="Typing SVG" />
 </h2>
+
+
 
 
 <p align="center">
