@@ -118,7 +118,7 @@ quote: "Stay curious, stay shipping 🚀"
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=dracula&hide_border=true" />
 </p>
 
 
