@@ -118,9 +118,7 @@ quote: "Stay curious, stay shipping 🚀"
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=radical&hide_border=false" />
 </p>
 
 
