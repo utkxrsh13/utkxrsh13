@@ -40,7 +40,7 @@ quote: "Stay curious, stay shipping 🚀"
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utkxrsh13&theme=dracula&no-bg=false&margin-w=5&column=7&no-frame=true&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=utkxrsh13&theme=dracula&no-bg=false&margin-w=5&column=6&no-frame=true&margin-h=5" />
 </p>
 
 ----
