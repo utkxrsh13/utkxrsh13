@@ -1,9 +1,9 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=utkxrsh13&color=blueviolet&style=flat" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=utkxrsh13&color=blueviolet&style=square" alt="Profile Views" />
 </p>
 
 <h2 align="center">
-<img alt="AI Dev Flow" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150px" />
+<img alt="AI Dev Flow" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" />
    
    
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=500&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things..." alt="Typing SVG" />
@@ -18,9 +18,9 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Passionate%20Learner-violet?style=flat-square&logo=react" width="180" height="30" />
+  <img src="https://img.shields.io/badge/-Passionate%20Learner-blueviolet?style=flat-square&logo=react" width="180" height="30" />
   <img src="https://img.shields.io/badge/-Computer%20Science%20Undergrad-brightgreen?style=flat-square&logo=graduation-cap" width="230" height="30" />
-  <img src="https://img.shields.io/badge/-Learning%20React%20%26%20Node.js-orange?style=flat-square&logo=javascript" width="230" height="30" />
+  <img src="https://img.shields.io/badge/-Learning%20LLM%20%26%20LangChain-orange?style=flat-square&logo=javascript" width="230" height="30" />
 </p>
 
 <!-- YAML-Style Introduction -->
