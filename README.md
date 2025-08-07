@@ -1,4 +1,4 @@
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=utkxrsh13&color=blueviolet&style=square" alt="Profile Views" />
 </p>
 
