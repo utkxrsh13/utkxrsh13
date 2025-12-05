@@ -114,7 +114,7 @@ quote: "Stay curious, stay shipping 🚀"
   <a href="https://leetcode.com/utkxrsh13">
     <img src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode&style=plastic&color=black" width="100" height="auto" />
   </a>
-  <a href="https://utkarsh-omega.vercel.app/">
+  <a href="https://utportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-white?logo=firefox&style=plastic&color=black" width="90" height="auto" />
   </a>
 </p>
