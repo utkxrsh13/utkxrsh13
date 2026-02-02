@@ -38,15 +38,8 @@ quote: "Stay curious, stay shipping 🚀"
 ```
 ----
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utkxrsh13&theme=dracula&no-bg=false&margin-w=5&column=6&no-frame=true&margin-h=5" />
-</p>
-
-----
-
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&color=9b5de5&center=true&vCenter=true&width=500&height=25&lines=Tech+Stack+%F0%9F%9B%A0%EF%B8%8F..." alt="Typing SVG" />
+  <p color="red">Tech Stack: </p>
 </h3>
 
 
@@ -56,53 +49,17 @@ quote: "Stay curious, stay shipping 🚀"
 
 ---
 
-<h3 align="center"> 💡 Projects</h3>
-<p align="center">
-  <a href="https://github.com/utkxrsh13/TRUbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=TRUbot&theme=radical" />
-  </a>
-  <a href="https://github.com/utkxrsh13/CareerVista-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=CareerVista-Backend&theme=radical" />
-  </a>
-  <a href="https://github.com/utkxrsh13/Text_to_Image">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=Text_to_Image&theme=radical" />
-  </a>
-  <a href="https://github.com/utkxrsh13/techNova-Static">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkxrsh13&repo=techNova-Static&theme=radical" />
-  </a>
-</p>
+<h3 align="center">🚀 Key Projects:</h3>
 
-
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkxrsh13&show_icons=true&hide_title=true&count_private=true&theme=dracula&layout=compact&hide_border=true" alt="Your GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkxrsh13&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages"/>
-</p>
-<p align="center">
-  
-</p>
-
+- AI Quiz & Content Generator (React + FastAPI + LLMs)
+- Text-to-Image AI Generator
+- MERN-based Job Portal & Career Platforms
 
 
 <!-- <hr style="border: 1px solid #ccc;"> -->
+---
 
-<h2 align="center">✨ Fun Fact</h2>
-<li align="center">
-  🌍 Did you know? The first computer "bug" was an actual moth found in a relay of the Harvard Mark II computer in 1947! 🦋
-</li>
-<li align="center">
-  🫥 3 SQL statements walk into a NoSQL bar; Soon, they walk out....They couldn't find a table😂
-</li>
-
-<h2 align="center">
- <img alt="AI Vibe" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150px" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&color=ffea00&center=true&vCenter=true&width=550&height=25&lines=%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!..." alt="Typing SVG" />
-</h2>
-
-
-
+<h3 align="center">Social Links: </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/utkxrsh13">
@@ -121,9 +78,7 @@ quote: "Stay curious, stay shipping 🚀"
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=dracula&hide_border=true" />
-</p>
+
 
 
 
