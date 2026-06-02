@@ -105,6 +105,8 @@ const utkarsh: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180" width= "400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utkxrsh13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117"/>
+  <img height="180" width = "300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utkxrsh13&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0D1117"/>
 <!-- GitHub Stats — hosted on anuraghazra's own Vercel deployment (most stable) -->
 <a href="https://github.com/utkxrsh13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkxrsh13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=c9d1d9&cache_seconds=1800" />
@@ -116,13 +118,9 @@ const utkarsh: Developer = {
 </div>
 <br/>
 <!-- Streak Stats — git.io/streak-stats is the stable domain -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=a78bfa&stroke=7c3aed" width="55%" />
-</div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkxrsh13&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=06b6d4&point=a78bfa&area=true&hide_border=true" width="100%" />
-</div>
+
+
 <br/>
 
 ---
@@ -176,14 +174,8 @@ const utkarsh: Developer = {
 <!--                   CONTRIBUTION SNAKE                         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkxrsh13/utkxrsh13/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkxrsh13/utkxrsh13/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/utkxrsh13/utkxrsh13/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=a78bfa&stroke=7c3aed" width="55%" />
 </div>
 
 <br/>
