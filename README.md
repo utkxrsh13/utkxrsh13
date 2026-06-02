@@ -1,85 +1,197 @@
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   PROFILE VIEWS COUNTER                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=utkxrsh13&color=blueviolet&style=square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=utkxrsh13&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<h2 align="center">
-<img alt="AI Dev Flow" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" />
-   
-   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=500&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I+am+Utkarsh...;A+Full+Stack+Developer;Always+Learning+New+Things..." alt="Typing SVG" />
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      HERO HEADER                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:06b6d4&height=200&section=header&text=Utkarsh%20Tiwari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%" />
+</div>
 
+<br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+World!+%F0%9F%91%8B;Building+Full+Stack+Apps+with+React+%26+Node.js;Exploring+LLMs+%26+AI+Integration+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
+<br/>
 
+---
 
-<!-- </p> -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
+## 🧑‍💻 About Me
 
-<h3 align="center">🚀 About Me</h3>
+```typescript
+const utkarsh: Developer = {
+  name:     "Utkarsh Tiwari",
+  alias:    "utkxrsh13",
+  location: "Ghaziabad, India 🇮🇳",
+  role:     "Full Stack Developer",
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Passionate%20Learner-blueviolet?style=flat-square&logo=react" width="180" height="30" />
-  <img src="https://img.shields.io/badge/-Computer%20Science%20Undergrad-brightgreen?style=flat-square&logo=graduation-cap" width="230" height="30" />
-  <img src="https://img.shields.io/badge/-Learning%20LLM%20%26%20LangChain-orange?style=flat-square&logo=javascript" width="230" height="30" />
-</p>
+  education: {
+    degree: "B.Tech — Computer Science",
+    focus:  ["DSA", "Software Engineering", "System Design"],
+  },
 
-<!-- YAML-Style Introduction -->
-```yaml
-name: Utkarsh Tiwari
-role: Frontend Developer | Software Enthusiast 👨‍💻
-education:
-  degree: B.Tech in Computer Science 🎓
-  focus: DSA, Software Engineering, System Design
-currently_learning:
-  - TypeScript ⚡
-  - Node.js + FastAPI
-  - LangChain + AI Integration 🤖
-quote: "Stay curious, stay shipping 🚀"
+  currentlyLearning: ["TypeScript ⚡", "Node.js + FastAPI", "LangChain + AI Integration 🤖"],
+
+  techStack: {
+    frontend:  ["React.js", "HTML5", "CSS3", "TailwindCSS", "SCSS"],
+    backend:   ["Node.js", "Express.js", "FastAPI"],
+    databases: ["MongoDB", "MySQL", "Firebase", "Appwrite"],
+    tools:     ["Docker", "Git", "Postman", "Webflow"],
+    ai:        ["LangChain", "LLM Integration", "Prompt Engineering"],
+  },
+
+  quote: "Stay curious, stay shipping 🚀",
+};
 ```
-----
 
-<h3 align="center">
-  <p color="red">Tech Stack: </p>
-</h3>
-
-
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,expressjs,mongodb,mysql,firebase,appwrite,tailwind,docker,postman,webflow,git,github,fastapi,scss,latex&perline=10" />
-</p>
+<br/>
 
 ---
 
-<h3 align="center">🚀 Key Projects:</h3>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-- AI Quiz & Content Generator (React + FastAPI + LLMs)
-- Text-to-Image AI Generator
-- MERN-based Job Portal & Career Platforms
+## 🛠️ Tech Stack
 
+<div align="center">
 
-<!-- <hr style="border: 1px solid #ccc;"> -->
----
-
-<h3 align="center">Social Links: </h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/utkxrsh13">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&style=plastic&color=black" width="70" height="auto" />
-  </a>
-  <a href="mailto:utkarsht0813@gmail.com">
-    <img src="https://img.shields.io/badge/-Mail-black?logo=gmail&style=plastic&color=black" width="60" height="auto" />
-  </a>
-  <a href="https://leetcode.com/utkxrsh13">
-    <img src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode&style=plastic&color=black" width="100" height="auto" />
-  </a>
-  <a href="https://utportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-white?logo=firefox&style=plastic&color=black" width="90" height="auto" />
-  </a>
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,scss&theme=dark&perline=7" />
 </p>
 
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase,appwrite&theme=dark&perline=7" />
+</p>
 
+### 🧰 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,webflow,latex&theme=dark&perline=6" />
+</p>
 
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
+</div>
 
+<br/>
 
+---
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+<!-- GitHub Stats — hosted on anuraghazra's own Vercel deployment (most stable) -->
+<a href="https://github.com/utkxrsh13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkxrsh13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=c9d1d9&cache_seconds=1800" />
+</a>
+<!-- Top Languages — self-hosted fallback via stats.hyp3rflow.dev -->
+<a href="https://github.com/utkxrsh13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkxrsh13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&cache_seconds=1800" />
+</a>
+</div>
+<br/>
+<!-- Streak Stats — git.io/streak-stats is the stable domain -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=utkxrsh13&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=a78bfa&stroke=7c3aed" width="55%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkxrsh13&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=06b6d4&point=a78bfa&area=true&hide_border=true" width="100%" />
+</div>
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      KEY PROJECTS                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| 🧠 **[Inquizii](https://github.com/utkxrsh13/Inquizii)** | AI-powered quiz & content generator for educators | `React` `FastAPI` `LangChain` `LLMs` |
+| 💼 **[CareerVista](https://github.com/utkxrsh13/CareerVista-Backend)** | Full-featured job portal with role-based access & tracking | `Node.js` `Express` `MongoDB` |
+| 🎨 **[LuminoAI / Text-to-Image](https://github.com/utkxrsh13/Text_to_Image)** | AI image generation from text prompts | `MERN` `AI APIs` |
+| 🤖 **[TRUbot](https://github.com/utkxrsh13/TRUbot)** | Gemini-powered conversational AI clone | `React` `Gemini API` `JavaScript` |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT WITH ME                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkxrsh13)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://utportfolio.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/utkxrsh13)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsht0813@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkxrsh13)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION SNAKE                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkxrsh13/utkxrsh13/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkxrsh13/utkxrsh13/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/utkxrsh13/utkxrsh13/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0d0d0d&height=120&section=footer" width="100%" />
+</div>
